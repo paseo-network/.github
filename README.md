@@ -1,2 +1,2 @@
-# .github
-Paseo Github repository
+# Paseo Github repository
+
