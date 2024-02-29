@@ -39,17 +39,17 @@ Are you a team deploying on Paseo that wants to make their tokens availabe on th
 ## Want to become a validator on Paseo?
 Please read -> [PAS-1: Onboard infrastructure providers](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS_ID1_onboard_infrastructure_providers.md).
 
-Q. Why can’t we just keep maintaining Rococo with decentralised funding?
-A. There are several reasons why we believe Rococo is no longer fit for purpose for the best experience of a testnet. 
+## Q&A about the network:
+
+**Q**. Why can’t we just keep maintaining Rococo with decentralised funding?
+
+> There are several reasons why we believe Rococo is no longer fit for purpose for the best experience of a testnet. 
 Rococo being a POA chain, is built differently from Polkadot (nPOS) meaning there are differences in how the chain is structured. 
 As Rococo is several years old, the time it takes a developer to sync the chain to start building is over 24h, for a developer they want to get started asap, and having a fast syncing chain is incredibly important. This is one of the reasons why ETH testnets are cycled through every 2-3 years. 
 Building on Rococo is currently permissioned and handled by Parity with strict limitations, also, the team that are managing this are leaving Parity to start their own company, this service will no longer be managed.
 Rococo receives updates prior to Kusama, meaning we don’t currently have an environment which is close to production for teams to build and test on.
 We believe this opportunity has given us time to take stock of our testnet offering and make a change for the better for 2024.
 
-
-
-## Q&A about the network:
 **Q**. Do I need an existing parachain on Rococo, Kusama or Polkadot to receive a slot on Paseo?
 
 > No, access to a slot on Paseo will be permissionless with the launch of Coretime and until then, any team is able to leverage the development environment to start tinkering and coding their project. 
