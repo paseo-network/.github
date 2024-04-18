@@ -74,3 +74,10 @@ We believe this opportunity has given us time to take stock of our testnet offer
 
 **Q**. Will it be possible to access the logs from the Relay and System chains?
 > Yes, all logging will be made publicly available to help with development and troubleshooting efforts.
+
+## Paseo Announcements
+
+Please join this public Matrix channel in order to get the latest updates about Paseo network:
+
+https://matrix.to/#/#paseo-announcements:matrix.org
+
