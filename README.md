@@ -37,7 +37,7 @@ All actions made on the relay chain, will need to be made in $PAS
 Are you a team deploying on Paseo that wants to make their tokens availabe on the fuacet for builders? (TODO)
 
 ## Want to become a validator on Paseo?
-Please read -> https://github.com/paseo-network/paseo-action-submission/blob/main/pas/onboard_infrastructure_providers.md
+Please read -> https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-1-onboard_infrastructure_providers.md
 
 Q. Why can’t we just keep maintaining Rococo with decentralised funding?
 A. There are several reasons why we believe Rococo is no longer fit for purpose for the best experience of a testnet. 
