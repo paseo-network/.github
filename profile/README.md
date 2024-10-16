@@ -81,3 +81,9 @@ Please join this public Matrix channel in order to get the latest updates about 
 
 https://matrix.to/#/#paseo-announcements:matrix.org
 
+## Paseo chain specs
+
+The chain-specs for the Paseo Relay and its system chains can be found in the following repository:
+
+https://github.com/paseo-network/paseo-chain-specs/tree/main
+
