@@ -41,6 +41,8 @@ Please read -> [PAS-10: Onboard chains via coretime](https://github.com/paseo-ne
 Or open an issue at: https://github.com/paseo-network/support
 
 ## Want to become a validator on Paseo?
+Provider onboardings are frozen at the moment.
+
 Please read -> [PAS-1: Onboard infrastructure providers](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS_ID1_onboard_infrastructure_providers.md).
 
 ## Q&A about the network:
@@ -63,7 +65,7 @@ We believe this opportunity has given us time to take stock of our testnet offer
 **Q**. Will all existing parachains and projects running on Rococo need to migrate to Paseo?
 > Yes, Rococo will be decommissioned early 2024 (more details to follow), teams will need to launch on Paseo with no chain state (preferred) or, migrate their Rococo chainstate to Paseo to continue operation of their testnet environment.
 
-**Q**. What is the migration path from anothe relay to Paseo?
+**Q**. What is the migration path from another relay to Paseo?
 > Please read: https://github.com/paseo-network/support/blob/main/docs/rococo_migration.md
 
 **Q**. When will coretime launch on Paseo?
@@ -72,8 +74,8 @@ We believe this opportunity has given us time to take stock of our testnet offer
 **Q**. I want to test new Polkadot features that aren’t yet on Polkadot, can I do this on Paseo?
 > No, you should test new bleeding edge features on Westend.
 
-**Q**. Who is managing Paseo and what experience do they have running a testnet?
-> Two core contributors to the Paseo testnet, the teams Portico and ROGUE are ex-Parity with two years of experience running Rococo. They are also joined by Zondax who have substantial web3 experience and are building on their substrate expertise and will be assisting in managing Paseo.
+**Q**. Who is managing Paseo?
+> Paseo is a joint effort between Portico, R0GUE, Zondax and number of infrastructure providers from Polkadot ecosystem.
 
 **Q**. Are there any SLAs for incident management?
 > Yes, this is something we are currently working out and we will propose it as an RFC in the Paseo github.
