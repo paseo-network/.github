@@ -43,7 +43,7 @@ Or open an issue at: https://github.com/paseo-network/support
 ## Want to become a validator on Paseo?
 Provider onboardings are frozen at the moment.
 
-Please read -> [PAS-1: Onboard infrastructure providers](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS_ID1_onboard_infrastructure_providers.md).
+Please read -> [PAS-1: Onboard infrastructure providers](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-1-onboard_infrastructure_providers.md).
 
 ## Q&A about the network:
 
