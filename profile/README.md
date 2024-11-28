@@ -14,6 +14,23 @@ The 2024 proposal link is here:
 Paseo is for Parachains and dapp builders to build and test their applications ontop of a stable testnet.
 The other testnet we have is Westend, which is for Parachains to perform protocol testing. Westend will be the environment to test new changes to the Polkadot relaychain and system chains, e.g. Coretime, Beefy, and Asycbacking.
 
+## Repositories
+
+[Paseo Action Submission](https://github.com/paseo-network/paseo-action-submission)
+The central hub for all proposals, discussions, and documentation related to the development and governance of the Paseo testnet. 
+
+[Runtimes](https://github.com/paseo-network/runtimes)
+Runtimes for Paseo, Polkadot's community testnet.
+
+[Paseo Chain Specs](https://github.com/paseo-network/paseo-chain-specs)
+All chain specs for Paseo, meaning Paseo relay chain and system chains chain specs.
+
+[Support](https://github.com/paseo-network/support)
+Serves as the main hub for the Paseo community to seek support, report issues, and contribute to the ongoing improvement of the Paseo Testnet.
+
+[Payouts](https://github.com/paseo-network/payouts)
+Used to record and communicate payout requets for the Paseo bounty.
+
 ## Ongoing work to the network
 There is always ongoing work being made to the testnet - we have made this transparent and public to the community by logging all work as a github issue. The workboard can be found here:
 
@@ -24,20 +41,40 @@ Changes to the network are covered by raising a PAS (Paseo Action Submission). S
 Anyone is able to raise a PAS for review by the maintainers of the network. 
 The raised PASs can be found at: 
 
-- https://github.com/paseo-network/paseo-action-submission
-
-## $PAS the testnet token
-All actions made on the relay chain, will need to be made in $PAS 
+[Paseo Action Submission](https://github.com/paseo-network/paseo-action-submission)
 
 ## Getting the testnet token ($PAS)
 1. Faucet -> https://paritytech.github.io/polkadot-testnet-faucet/
 2. Guide on how to interact with the faucet -> https://medium.com/p/8c2fbe45b603
 
-## Adding your tokens to the faucet
-Are you a team deploying on Paseo that wants to make their tokens availabe on the fuacet for builders? (TODO)
+## Paseo Testnet Support Channel
 
-## Want to become a validator on Paseo?
-Please read -> [PAS-1: Onboard infrastructure providers](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS_ID1_onboard_infrastructure_providers.md).
+There is a matrix support channel available for any kind of support required: 
+
+[Paseo Testnet Support Channel](https://matrix.to/#/#paseo-testnet-support:parity.io)
+
+The channel is mirrored with the following Discord room from the Polakdot server:
+https://discord.com/channels/722223075629727774/1202976057632886854
+
+## Cores onboarding
+
+If you are a team that needs a core in Paseo please follow this guide:
+
+[PAS 10 - Onboard Paras Coretime](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-10-Onboard-paras-coretime.md)
+
+If there is any question or blocker in the process, please get in contact with the Paseo Core team using the [Paseo Testnet Support Channel](https://matrix.to/#/#paseo-testnet-support:parity.io).
+
+## Paseo Announcements
+
+Please join this public Matrix channel in order to get the latest updates about Paseo network:
+
+https://matrix.to/#/#paseo-announcements:matrix.org
+
+## Paseo chain specs
+
+The chain-specs for the Paseo Relay and its system chains can be found in the following repository:
+
+[Paseo Chain Specs](https://github.com/paseo-network/paseo-chain-specs)
 
 ## Q&A about the network:
 
@@ -74,16 +111,4 @@ We believe this opportunity has given us time to take stock of our testnet offer
 
 **Q**. Will it be possible to access the logs from the Relay and System chains?
 > Yes, all logging will be made publicly available to help with development and troubleshooting efforts.
-
-## Paseo Announcements
-
-Please join this public Matrix channel in order to get the latest updates about Paseo network:
-
-https://matrix.to/#/#paseo-announcements:matrix.org
-
-## Paseo chain specs
-
-The chain-specs for the Paseo Relay and its system chains can be found in the following repository:
-
-https://github.com/paseo-network/paseo-chain-specs/tree/main
 
