@@ -27,6 +27,17 @@ Users are welcome to test governance related features. However, most priviledged
 - https://paseo.subsquare.io/
 - https://paseo.polkassembly.io/
 
+## Block explorers:
+- https://paseo.subscan.io/
+- https://paseo.statescan.io/
+- EVM contracts: https://blockscout-passet-hub.parity-testnet.parity.io/
+
+## Governance:
+Users are welcome to test governance related features. However, most priviledged operations are executed via a priviledged key controlled by the maintainers of the testnet.
+
+- https://paseo.subsquare.io/
+- https://paseo.polkassembly.io/
+
 ## Ongoing work to the network
 There is always ongoing work being made to the testnet. The work is kept in public repositories, namely:
 
@@ -81,3 +92,21 @@ Please read -> https://github.com/paseo-network/paseo-action-submission/blob/mai
 > The best way of contacting the involved contributors are:
 > - Open an issue at: https://github.com/paseo-network/support
 > - Join the public paseo matrix room: https://matrix.to/#/#paseo-testnet-support:parity.io
+
+## Paseo Announcements
+
+Please join this public Matrix channel in order to get the latest updates about Paseo network:
+
+https://matrix.to/#/#paseo-announcements:matrix.org
+
+## Paseo Support
+
+Please join this public Matrix channel in order to reach out to the team and other involved players of the Paseo network:
+
+https://matrix.to/#/#paseo-testnet-support:parity.io
+
+## Paseo chain specs
+
+The chain-specs for the Paseo Relay and its system chains can be found in the following repository:
+
+https://github.com/paseo-network/paseo-chain-specs
