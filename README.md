@@ -15,7 +15,6 @@ These are the treasury proposals that have helped maintain Paseo running:
 
 Paseo is for Parachains and dapp builders to build and test their applications ontop of a stable testnet.
 Another testnet exists: Westend. Which hosts all protocol testing. While Westend can be less stable it is the environment to test new protocol changes while they are being prepared for quality control and later release.
-<<<<<<< HEAD
 
 ## Block explorers:
 - https://paseo.subscan.io/
@@ -27,8 +26,6 @@ Users are welcome to test governance related features. However, most priviledged
 
 - https://paseo.subsquare.io/
 - https://paseo.polkassembly.io/
-=======
->>>>>>> 0c48750 (docs: update README)
 
 ## Block explorers:
 - https://paseo.subscan.io/
@@ -95,3 +92,21 @@ Please read -> https://github.com/paseo-network/paseo-action-submission/blob/mai
 > The best way of contacting the involved contributors are:
 > - Open an issue at: https://github.com/paseo-network/support
 > - Join the public paseo matrix room: https://matrix.to/#/#paseo-testnet-support:parity.io
+
+## Paseo Announcements
+
+Please join this public Matrix channel in order to get the latest updates about Paseo network:
+
+https://matrix.to/#/#paseo-announcements:matrix.org
+
+## Paseo Support
+
+Please join this public Matrix channel in order to reach out to the team and other involved players of the Paseo network:
+
+https://matrix.to/#/#paseo-testnet-support:parity.io
+
+## Paseo chain specs
+
+The chain-specs for the Paseo Relay and its system chains can be found in the following repository:
+
+https://github.com/paseo-network/paseo-chain-specs

@@ -81,3 +81,21 @@ Please read -> https://github.com/paseo-network/paseo-action-submission/blob/mai
 > The best way of contacting the involved contributors are:
 > - Open an issue at: https://github.com/paseo-network/support
 > - Join the public paseo matrix room: https://matrix.to/#/#paseo-testnet-support:parity.io
+
+## Paseo Announcements
+
+Please join this public Matrix channel in order to get the latest updates about Paseo network:
+
+https://matrix.to/#/#paseo-announcements:matrix.org
+
+## Paseo Support
+
+Please join this public Matrix channel in order to reach out to the team and other involved players of the Paseo network:
+
+https://matrix.to/#/#paseo-testnet-support:parity.io
+
+## Paseo chain specs
+
+The chain-specs for the Paseo Relay and its system chains can be found in the following repository:
+
+https://github.com/paseo-network/paseo-chain-specs
