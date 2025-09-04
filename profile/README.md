@@ -16,6 +16,17 @@ These are the treasury proposals that have helped maintain Paseo running:
 Paseo is for Parachains and dapp builders to build and test their applications ontop of a stable testnet.
 Another testnet exists: Westend. Which hosts all protocol testing. While Westend can be less stable it is the environment to test new protocol changes while they are being prepared for quality control and later release.
 
+## Block explorers:
+- https://paseo.subscan.io/
+- https://paseo.statescan.io/
+- EVM contracts: https://blockscout-passet-hub.parity-testnet.parity.io/
+
+## Governance:
+Users are welcome to test governance related features. However, most priviledged operations are executed via a priviledged key controlled by the maintainers of the testnet.
+
+- https://paseo.subsquare.io/
+- https://paseo.polkassembly.io/
+
 ## Ongoing work to the network
 There is always ongoing work being made to the testnet. The work is kept in public repositories, namely:
 
